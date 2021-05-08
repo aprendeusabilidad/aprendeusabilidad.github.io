@@ -1,0 +1,1 @@
+*Landing page* de ejemplo usada en el post [Cómo crear una página web gratuita en GitHub Pages](https://www.aunitz.net/como-crear-pagina-web-gratis-github-pages/) de [mi blog](https://www.aunitz.net/).
